@@ -1,6 +1,7 @@
 [
   {
     "username": "Nina",
+    "sex": "female",
     "success": [
       {
         "id": "first_tattoo",
@@ -18,6 +19,7 @@
   },
   {
     "username": "Alex",
+    "sex": "male",
     "success": [
       {
         "id": "first_tattoo",
