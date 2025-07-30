@@ -16,8 +16,22 @@
   {
     "id": "ten_tattoos",
     "name": "Accro à l’encre",
-    "description": "Faire 10 tattoos",
+    "description": "Réaliser 10 tattoos au salon",
     "goal": 10,
+    "points": 3
+  },
+  {
+    "id": "avis_google",
+    "name": "Le Porte-Parole",
+    "description": "Laisser un avis Google avec photo",
+    "goal": 1,
+    "points": 2
+  },
+  {
+    "id": "event_participation",
+    "name": "Explorateur de l’ombre",
+    "description": "Participer à un événement spécial du shop",
+    "goal": 1,
     "points": 3
   }
 ]
