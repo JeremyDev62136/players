@@ -1,37 +1,98 @@
 [
   {
-    "id": "first_tattoo",
-    "name": "Premier tattoo",
-    "description": "Faire son premier tattoo à l'Atelier Yōkai",
+    "id": "tattoo_1",
+    "name": "Premier Tattoo",
+    "description": "Réalise ton premier tatouage à l’Atelier Yōkai.",
     "goal": 1,
-    "points": 1
+    "points": 5,
+    "category": "Tatouages"
   },
   {
-    "id": "parrainage",
-    "name": "Compagnon du yōkai",
-    "description": "Parrainer un ami",
-    "goal": 1,
-    "points": 2
+    "id": "tattoo_2",
+    "name": "Collectionneur d’Encre",
+    "description": "Atteins 5 tatouages réalisés chez nous.",
+    "goal": 5,
+    "points": 10,
+    "category": "Tatouages"
   },
   {
-    "id": "ten_tattoos",
-    "name": "Accro à l’encre",
-    "description": "Réaliser 10 tattoos au salon",
-    "goal": 10,
-    "points": 3
+    "id": "art_1",
+    "name": "Premier Achat d’Œuvre",
+    "description": "Achète ta première œuvre ou print dans notre boutique.",
+    "goal": 1,
+    "points": 3,
+    "category": "Œuvres & Shop"
   },
   {
-    "id": "avis_google",
-    "name": "Le Porte-Parole",
-    "description": "Laisser un avis Google avec photo",
-    "goal": 1,
-    "points": 2
+    "id": "art_2",
+    "name": "Collectionneur d’Art",
+    "description": "Achète 3 œuvres différentes dans notre shop.",
+    "goal": 3,
+    "points": 7,
+    "category": "Œuvres & Shop"
   },
   {
-    "id": "event_participation",
-    "name": "Explorateur de l’ombre",
-    "description": "Participer à un événement spécial du shop",
+    "id": "event_1",
+    "name": "Joueur dans l’âme",
+    "description": "Participe à un de nos jeux concours ou loteries.",
     "goal": 1,
-    "points": 3
+    "points": 2,
+    "category": "Événements & Jeux"
+  },
+  {
+    "id": "event_2",
+    "name": "Soirée Yokai",
+    "description": "Viens à une soirée événementielle ou un vernissage au shop.",
+    "goal": 1,
+    "points": 3,
+    "category": "Événements & Jeux"
+  },
+  {
+    "id": "engagement_1",
+    "name": "Ambassadeur Yōkai",
+    "description": "Parraine un(e) ami(e) qui se fait tatouer chez nous.",
+    "goal": 1,
+    "points": 5,
+    "category": "Engagement & Parrainage"
+  },
+  {
+    "id": "engagement_2",
+    "name": "Soutien Digital",
+    "description": "Partage un avis Google ou une story Insta mentionnant Atelier Yōkai.",
+    "goal": 1,
+    "points": 2,
+    "category": "Engagement & Parrainage"
+  },
+  {
+    "id": "fidelite_1",
+    "name": "Client Fidèle",
+    "description": "Viens 3 fois au shop en 12 mois (tattoo ou achat).",
+    "goal": 3,
+    "points": 6,
+    "category": "Fidélité"
+  },
+  {
+    "id": "fidelite_2",
+    "name": "Légende de l’Atelier",
+    "description": "Réalise un tattoo, achète une œuvre et participe à un event : le combo parfait !",
+    "goal": 1,
+    "points": 12,
+    "category": "Fidélité"
+  },
+  {
+    "id": "fun_1",
+    "name": "Cosplay Master",
+    "description": "Viens déguisé(e) lors d’un événement ou flash day.",
+    "goal": 1,
+    "points": 3,
+    "category": "Fun & Bonus"
+  },
+  {
+    "id": "fun_2",
+    "name": "Zone Surprise",
+    "description": "Fais-toi tatouer sur une zone atypique (main, cou, oreille…).",
+    "goal": 1,
+    "points": 4,
+    "category": "Fun & Bonus"
   }
 ]
