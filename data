@@ -4,9 +4,9 @@
     "sex": "male",
     "success": [
       { "id": "tattoo_1", "progress": 1 },
-      { "id": "tattoo_2", "progress": 3 },             // pas encore validé (objectif : 5)
+      { "id": "tattoo_2", "progress": 3 },             
       { "id": "art_1", "progress": 1 },
-      { "id": "event_1", "progress": 2 },              // a participé à 2 events
+      { "id": "event_1", "progress": 2 },             
       { "id": "engagement_1", "progress": 1 },
       { "id": "fidelite_1", "progress": 2 },
       { "id": "fun_1", "progress": 0 }
