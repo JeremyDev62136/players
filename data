@@ -1,0 +1,24 @@
+[
+  {
+    "username": "Nina",
+    "points": 18,
+    "title": "Chasseur de Yōkai",
+    "success": [
+      {
+        "id": "first_tattoo",
+        "progress": 1,
+        "goal": 1
+      },
+      {
+        "id": "ten_tattoos",
+        "progress": 5,
+        "goal": 10
+      },
+      {
+        "id": "parrainage",
+        "progress": 1,
+        "goal": 3
+      }
+    ]
+  }
+]
