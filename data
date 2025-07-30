@@ -1,42 +1,42 @@
 [
   {
-    "username": "Nina",
-    "sex": "female",
+    "username": "YokaiFan",
+    "sex": "male",
     "success": [
-      {
-        "id": "first_tattoo",
-        "progress": 1
-      },
-      {
-        "id": "ten_tattoos",
-        "progress": 5
-      },
-      {
-        "id": "parrainage",
-        "progress": 1
-      }
+      { "id": "tattoo_1", "progress": 1 },
+      { "id": "tattoo_2", "progress": 3 },             // pas encore validé (objectif : 5)
+      { "id": "art_1", "progress": 1 },
+      { "id": "event_1", "progress": 2 },              // a participé à 2 events
+      { "id": "engagement_1", "progress": 1 },
+      { "id": "fidelite_1", "progress": 2 },
+      { "id": "fun_1", "progress": 0 }
     ]
   },
   {
-    "username": "Alex",
+    "username": "Mina",
+    "sex": "female",
+    "success": [
+      { "id": "tattoo_1", "progress": 1 },
+      { "id": "tattoo_2", "progress": 5 },
+      { "id": "art_1", "progress": 1 },
+      { "id": "art_2", "progress": 2 },
+      { "id": "event_1", "progress": 1 },
+      { "id": "engagement_1", "progress": 2 },
+      { "id": "fidelite_1", "progress": 3 },
+      { "id": "fun_1", "progress": 1 }
+    ]
+  },
+  {
+    "username": "Nico",
     "sex": "male",
     "success": [
-      {
-        "id": "first_tattoo",
-        "progress": 1
-      },
-      {
-        "id": "ten_tattoos",
-        "progress": 10
-      },
-      {
-        "id": "avis_google",
-        "progress": 1
-      },
-      {
-        "id": "event_participation",
-        "progress": 1
-      }
+      { "id": "tattoo_1", "progress": 0 },
+      { "id": "tattoo_2", "progress": 0 },
+      { "id": "art_1", "progress": 1 },
+      { "id": "event_1", "progress": 1 },
+      { "id": "engagement_1", "progress": 0 },
+      { "id": "fidelite_1", "progress": 1 },
+      { "id": "fun_1", "progress": 0 }
     ]
   }
 ]
