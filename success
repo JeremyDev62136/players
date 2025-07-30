@@ -3,21 +3,21 @@
     "id": "first_tattoo",
     "name": "Premier tattoo",
     "description": "Faire son tout premier tattoo chez Atelier Yōkai",
-    "points": 1,
-    "goal": 1
-  },
-  {
-    "id": "ten_tattoos",
-    "name": "Accro à l’encre",
-    "description": "Réaliser 10 tattoos au shop",
-    "points": 3,
-    "goal": 10
+    "goal": 1,
+    "points": 1
   },
   {
     "id": "parrainage",
     "name": "Compagnon du yōkai",
-    "description": "Parrainer 3 ami(e)s",
-    "points": 3,
-    "goal": 3
+    "description": "Parrainer un ami",
+    "goal": 1,
+    "points": 2
+  },
+  {
+    "id": "ten_tattoos",
+    "name": "Accro à l’encre",
+    "description": "Faire 10 tattoos",
+    "goal": 10,
+    "points": 3
   }
 ]
